@@ -1,0 +1,2 @@
+include ':app', ':myloglibrary'
+rootProject.name='LogCollector'
